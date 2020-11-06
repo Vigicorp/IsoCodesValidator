@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "^7.1.4 || ^7.4.*",
+        "php": ">=7.1.4",
         "ronanguilloux/isocodes": "^2.1.1",
         "symfony/translation": "^4.4 || ^5.0",
         "symfony/validator": "^4.4 || ^5.0"
